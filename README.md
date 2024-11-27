@@ -13,3 +13,5 @@ Data-Engineering-Project
    * Transform the data to make it usable for analysis.
    * Load the processed data into a target destination (e.g., a database, data warehouse).
    *  Automate and monitor data pipelines.
+
+![Data Engineering Project](https://github.com/user-attachments/assets/6683b479-788d-4f75-8d45-b7623c4d106f)
